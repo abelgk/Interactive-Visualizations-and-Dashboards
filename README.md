@@ -2,7 +2,7 @@
 In this assignment Flask is used to design an API for dataset on belly button diversity and to serve the HTML and JavaScript required for the dashboard page. Sqlite database file and SQLAlchemy were also used inside Flask app code.
 
 The Flask app	 has the following routes to serve the data from the database: @app.route("/") """Return the dashboard homepage.""" @app.route('/names') """List of sample names.
-
+Link to Deployed app: https://belly-button-biodiversity-abel.herokuapp.com/
 ### Step 1 - Plotly.js
 
 - Used Plotly.js to build interactive charts for the dashboard.
@@ -21,4 +21,4 @@ The Flask app	 has the following routes to serve the data from the database: @ap
 
 ### Step 2 - Heroku
 
-- Deployed my Flask app to Heroku.
+- Deployed my Flask app to Heroku: https://belly-button-biodiversity-abel.herokuapp.com/
